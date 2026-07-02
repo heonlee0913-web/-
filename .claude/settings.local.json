@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__2cb40d80-6a27-45a2-85ec-dda297cfffee__notion-query-database-view",
+      "mcp__2cb40d80-6a27-45a2-85ec-dda297cfffee__notion-fetch",
+      "mcp__2cb40d80-6a27-45a2-85ec-dda297cfffee__notion-query-data-sources",
+      "mcp__2cb40d80-6a27-45a2-85ec-dda297cfffee__notion-search",
+      "Bash(python3 -c ' *)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 -c ' *)",
+      "mcp__2cb40d80-6a27-45a2-85ec-dda297cfffee__notion-create-pages",
+      "mcp__2cb40d80-6a27-45a2-85ec-dda297cfffee__notion-update-page",
+      "mcp__scheduled-tasks__list_scheduled_tasks",
+      "Bash(git init *)",
+      "Bash(git config *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
