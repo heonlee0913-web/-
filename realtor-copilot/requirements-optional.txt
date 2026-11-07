@@ -1,0 +1,3 @@
+# 필수 의존성 없음 (Python 3.10+ 표준 라이브러리)
+# Claude 후기 요약(--claude) 사용 시에만 필요
+anthropic
